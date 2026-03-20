@@ -1,0 +1,11 @@
+# Sarvesh Kumar का Faceless Video Generator  
+AI से बिना चेहरा दिखाए वीडियो बनाओ – 100% फ्री!  
+
+## कैसे चलाएँ  
+1. git clone https://github.com/तुम्हारा-नाम/faceless.git  
+2. cd faceless  
+3. pip install -r requirements.txt  
+4. python main.py  
+
+पसंद आया? एक ☕ पिला दो!  
+👉 https://buymeacoffee.com/sarvesh
